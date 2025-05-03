@@ -19,7 +19,7 @@ My latest script demonstrates how to:
 3. **Cluster** with a 3-cluster K-Means on volatility vs. mean return  
 4. **Visualize** side-by-side scatter plots of each asset’s clusters  
 
-🔗 [View the Volatility K-Means Clustering Script](src/fetch_and_cluster.py)
+🔗 [View the Volatility K-Means Clustering Script](src/fetch_cluster.py)
 
 …and more coming soon!
 
